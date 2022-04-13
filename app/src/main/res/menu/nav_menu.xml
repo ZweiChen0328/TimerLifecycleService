@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_start"
+        android:icon="@drawable/twotone_alarm_black_24"
+        android:title="@string/stop_watch" />
+
+    <item
+        android:id="@+id/navigation_record"
+        android:icon="@drawable/twotone_stop_black_24"
+        android:title="@string/time_record" />
+
+</menu>

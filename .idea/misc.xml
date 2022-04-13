@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master(temp)/lifecycle_service_demo_yt-master/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.1955" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master(temp)/lifecycle_service_demo_yt-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master(temp)/lifecycle_service_demo_yt-master/app/src/main/res/layout/bottom.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master(temp)/lifecycle_service_demo_yt-master/app/src/main/res/layout/record.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master(temp)/lifecycle_service_demo_yt-master/app/src/main/res/layout/record_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master(temp)/lifecycle_service_demo_yt-master/app/src/main/res/layout/result.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master(temp)/lifecycle_service_demo_yt-master/app/src/main/res/layout/start_stopwatch.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master(temp)/lifecycle_service_demo_yt-master/app/src/main/res/layout/stopwatch.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master(temp)/lifecycle_service_demo_yt-master/app/src/main/res/menu/nav_menu.xml" value="0.5" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master/lifecycle_service_demo_yt-master/app/src/main/res/layout/activity_main.xml" value="0.35778985507246375" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master/lifecycle_service_demo_yt-master/app/src/main/res/layout/fragment_add_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/maxch/Downloads/lifecycle_service_demo_yt-master/lifecycle_service_demo_yt-master/app/src/main/res/layout/start_stopwatch.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
